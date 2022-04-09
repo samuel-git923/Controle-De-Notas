@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\bin\Debug\pooControleDeNotas.exe.config
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\bin\Debug\pooControleDeNotas.exe
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\bin\Debug\pooControleDeNotas.pdb
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\obj\Debug\pooControleDeNotas.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\obj\Debug\pooControleDeNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\obj\Debug\pooControleDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\obj\Debug\pooControleDeNotas.exe
+C:\Users\Caetano\source\repos\pooControleDeNotas\pooControleDeNotas\obj\Debug\pooControleDeNotas.pdb
